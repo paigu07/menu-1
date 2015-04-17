@@ -44,3 +44,4 @@ Temporary Items
 
 # Not Permitted Files 
 data/mongod.lock
+.dpd/pids/mongod
